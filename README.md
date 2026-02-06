@@ -361,7 +361,7 @@ Verdict Writer: Writing comprehensive report...
 
 ---
 
-**จัดทำโดย**: Historical Court Development Team  
+**จัดทำโดย**: Kanthi Phrakhienthong
 **Version**: 1.0  
 **Last Updated**: February 2024  
 **License**: MIT
